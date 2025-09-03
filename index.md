@@ -2,13 +2,11 @@
 layout: default 
 ---
 
-# Want to solve a business challenge with technology?
+# Have a technology challenge that's impacting your business?
 
 I help enterprises solve complex business problems through software architecture, cloud architecture, system integration, and digital transformation. Let's discuss your challenge.
 
-13+ years of industry experience in software architecture, cloud migration, system modernization, and end-to-end enterprise integration within International Trade and Financial Services industries. 
-
-Recognized for quickly mastering emerging technologies and fostering cross-functional collaboration, I drive successful project outcomes while building lasting partnerships across technical and business teams.
+With 13+ years of industry experience in software architecture, cloud migration, system modernization, and end-to-end enterprise integration within International Trade and Financial Services industries, I'm recognized for quickly mastering emerging technologies and fostering cross-functional collaboration. I consistently drive successful project outcomes while building lasting partnerships across technical and business teams.
 
 ## Featured Achievements
 - **60% productivity boost** through AI-powered development tools
