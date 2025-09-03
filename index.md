@@ -13,8 +13,11 @@ With 13+ years of industry experience in software architecture, cloud migration,
 - **Successful cloud migration** of critical REST APIs to scalable Amazon ECS  
 - **Enterprise security enhancement** with automated AWS WAF deployments
 - **End-to-end B2B/B2G integrations**
+- [Recommendations](https://www.linkedin.com/in/alakhkaushik/details/recommendations)
 
 ## Expertise
+
+**Certifications:** https://www.credly.com/users/alakhkaushik
 
 **Cloud & Infrastructure:** Amazon Web Services (AWS) - ECS, EC2, S3, CloudFormation, WAF, Lambda, Infrastructure-as-Code, AWS Well-Architected Framework
 
@@ -28,4 +31,4 @@ With 13+ years of industry experience in software architecture, cloud migration,
 
 **Current Focus**: Cloud Architecture, Software Architecture, and Strategic Technical Leadership
 
-[Email me](mailto:alakhkaushik@proton.me) | [Let's connect on LinkedIn](https://www.linkedin.com/in/alakhkaushik) | [Certifications](https://www.credly.com/users/alakhkaushik)
+[Email me](mailto:alakhkaushik@proton.me) | [Let's connect on LinkedIn](https://www.linkedin.com/in/alakhkaushik) 
