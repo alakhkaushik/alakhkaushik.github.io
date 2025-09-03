@@ -8,9 +8,3 @@ html {
   zoom: 125%; /* Makes everything 25% larger */
 }
 
-/* Alternative approach using transform (better browser support) */
-body {
-  transform: scale(1.25);
-  transform-origin: 0 0;
-  width: 80%; /* Compensate for scaling */
-}
