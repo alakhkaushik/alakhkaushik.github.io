@@ -2,9 +2,9 @@
 layout: default 
 ---
 
-# Have a Technology Challenge?
+# Want to solve a business challenge with technology?
 
-I help enterprises solve complex problems through software architecture, cloud architecture, system integration, and digital transformation. Let's discuss your challenge.
+I help enterprises solve complex business problems through software architecture, cloud architecture, system integration, and digital transformation. Let's discuss your challenge.
 
 13+ years of industry experience in software architecture, cloud migration, system modernization, and end-to-end enterprise integration within International Trade and Financial Services industries. 
 
