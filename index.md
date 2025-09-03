@@ -26,7 +26,7 @@ With 13+ years of industry experience in software architecture, cloud migration,
 
 **Methodologies & Leadership:** Agile/Scrum, Professional Scrum Master, Cross-functional Leadership, AI-powered Development Tools, Stakeholder Management, Development Best Practices
 
-## Let's Discuss Your Challenge
+## Let's discuss your challenge
 
 **Current Focus**: Cloud Architecture, Software Architecture, and Strategic Technical Leadership
 
