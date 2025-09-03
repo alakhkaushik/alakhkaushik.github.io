@@ -3,42 +3,26 @@
 
 @import "{{ site.theme }}";
 
-/* Main content font size */
+/* Force larger fonts everywhere */
+* {
+  font-size: inherit !important;
+}
+
 body {
-  font-size: 18px;
-  line-height: 1.6;
+  font-size: 18px !important;
+  line-height: 1.6 !important;
 }
 
-/* Sidebar fixes - this is the key part */
-.sidebar {
+/* Sidebar specific targeting */
+aside, .sidebar, .sidebar *, nav, nav * {
   font-size: 16px !important;
 }
 
+/* Make everything bigger */
 .sidebar h1 {
-  font-size: 1.8em !important;
+  font-size: 24px !important;
 }
 
-.sidebar p {
+.sidebar p, .sidebar li, .sidebar a {
   font-size: 16px !important;
-  line-height: 1.5 !important;
 }
-
-/* Navigation links in sidebar */
-.sidebar nav ul li a {
-  font-size: 16px !important;
-  padding: 8px 0 !important;
-}
-
-/* Make sidebar wider if needed */
-.sidebar {
-  width: 270px !important; /* Default is usually 230px */
-}
-
-.container {
-  margin-left: 290px !important; /* Adjust for wider sidebar */
-}
-
-/* Headings */
-h1 { font-size: 2.2em; }
-h2 { font-size: 1.8em; }
-h3 { font-size: 1.4em; }
