@@ -3,26 +3,14 @@
 
 @import "{{ site.theme }}";
 
-/* Force larger fonts everywhere */
-* {
-  font-size: inherit !important;
+/* Force overall zoom - this scales everything proportionally */
+html {
+  zoom: 125%; /* Makes everything 25% larger */
 }
 
+/* Alternative approach using transform (better browser support) */
 body {
-  font-size: 18px !important;
-  line-height: 1.6 !important;
-}
-
-/* Sidebar specific targeting */
-aside, .sidebar, .sidebar *, nav, nav * {
-  font-size: 16px !important;
-}
-
-/* Make everything bigger */
-.sidebar h1 {
-  font-size: 24px !important;
-}
-
-.sidebar p, .sidebar li, .sidebar a {
-  font-size: 16px !important;
+  transform: scale(1.25);
+  transform-origin: 0 0;
+  width: 80%; /* Compensate for scaling */
 }
