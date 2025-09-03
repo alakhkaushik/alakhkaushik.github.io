@@ -4,7 +4,7 @@ layout: default
 
 # Have a technology challenge that's impacting your business?
 
-I help enterprises solve complex business problems through software architecture, cloud architecture, system integration, and digital transformation. Let's discuss your challenge.
+I help enterprises solve complex business problems through software architecture, cloud architecture, system integration, and digital transformation.
 
 With 13+ years of industry experience in software architecture, cloud migration, system modernization, and end-to-end enterprise integration within International Trade and Financial Services industries, I'm recognized for quickly mastering emerging technologies and fostering cross-functional collaboration. I consistently drive successful project outcomes while building lasting partnerships across technical and business teams.
 
@@ -24,4 +24,8 @@ With 13+ years of industry experience in software architecture, cloud migration,
 
 **Methodologies & Leadership:** Agile/Scrum, Professional Scrum Master, Cross-functional Leadership, AI-powered Development Tools, Stakeholder Management, Development Best Practices
 
-[Contact Me](mailto:alakhkaushik@proton.me) | [LinkedIn](https://www.linkedin.com/in/alakhkaushik) | [Credly](https://www.credly.com/users/alakhkaushik)
+## Let's Discuss Your Challenge
+
+**Current Focus**: Cloud Architecture, Software Architecture and Strategic Technical Leadership
+
+[Email Me](mailto:alakhkaushik@proton.me) | [Let's connect on LinkedIn](https://www.linkedin.com/in/alakhkaushik) | [Checkout my credentials](https://www.credly.com/users/alakhkaushik)
