@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: default 
 ---
 
 # Have a Technology Challenge?
