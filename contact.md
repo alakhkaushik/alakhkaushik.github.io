@@ -3,7 +3,7 @@ layout: default
 title: Let's connect
 ---
 
-## Let's Discuss Your Challenge
+## Let's discuss your challenge
 
 **Current Focus**: Cloud Architecture, Software Architecture, and Strategic Technical Leadership
 
