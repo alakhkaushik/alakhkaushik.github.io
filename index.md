@@ -28,4 +28,4 @@ With 13+ years of industry experience in software architecture, cloud migration,
 
 **Current Focus**: Cloud Architecture, Software Architecture and Strategic Technical Leadership
 
-[Email Me](mailto:alakhkaushik@proton.me) | [Let's connect on LinkedIn](https://www.linkedin.com/in/alakhkaushik) | [Checkout my credentials](https://www.credly.com/users/alakhkaushik)
+[Email me](mailto:alakhkaushik@proton.me) | [Let's connect on LinkedIn](https://www.linkedin.com/in/alakhkaushik) | [Checkout my credentials](https://www.credly.com/users/alakhkaushik)
